@@ -1,4 +1,8 @@
-## Hi there 👋
+## **Hiii!** 😁
+🤓 _I'm starting to learn how to code and that stuff_
+🥺 _I'll be so gratefull if I'm told about any advice or suggestion_
+👀 _I'm wanting to know more about everything_
+
 
 <!--
 **Omecito317/Omecito317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
