@@ -1,7 +1,9 @@
 ## **Hiii!** 😁
+```
 🤓 _I'm starting to learn how to code and that stuff_
 🥺 _I'll be so gratefull if I'm told about any advice or suggestion_
 👀 _I'm wanting to know more about everything_
+```
 
 
 <!--
